@@ -31,13 +31,13 @@
       28. Friendly pair
       
 ## Working with Number
-      1.
-      2.
-      3.
-      4.
-      5.
-      6.
-      7.
-      8.
-      9.
-      10.
+      1. Highest Common Factor(HCF)
+      2. Lowest Common Multiple(LCM)
+      3. Greatest Common Divisor
+      4. Binary to Decimal Conversion
+      5. Octal to Decimal Conversion
+      6. Hexadecimal to Decimal Conversion
+      7. Decimal to Binary Conversion
+      8. Decimal to Octal Conversion
+      9. Decimal to Hexadecimal Conversion
+      10. Binary to Octal Conversion
