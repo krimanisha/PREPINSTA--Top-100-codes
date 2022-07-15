@@ -1,6 +1,6 @@
 # PREPINSTA--Top-100-codes
 --------------------------------------
-Getting Started
+## Getting Started
       1. Positive or Negative Numbers
       2. Even or Odd Numbers
       3. Sum of First N Natural numbers
