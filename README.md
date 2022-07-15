@@ -29,3 +29,15 @@
       26. Harshad number
       27. Abundant number
       28. Friendly pair
+      
+## Working with Number
+      1.
+      2.
+      3.
+      4.
+      5.
+      6.
+      7.
+      8.
+      9.
+      10.
