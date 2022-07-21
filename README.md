@@ -41,8 +41,43 @@
       8. Decimal to Octal Conversion
       9. Decimal to Hexadecimal Conversion
       10. Binary to Octal Conversion
+      11. Octal to Binary Conversion
+      12. Quadrants in which a given coordinate lies
+      13. Permutations in which n people can occupy r seats in a classroom
+      14. Maximum number of handshakes
+      15. Addition of two fractions
+      16. Replace all 0’s with 1 in a given integer
+      17. Can a number be expressed as a sum of two prime numbers
+      18. Count possible decoding of a given digit sequence
+      19. Calculate the area of a circle
+      20. Find the prime numbers between 1 to 100
+      21. Calculate the number of digits in an integer
+      22. Convert digit/number to words.
+      23. Counting number of days in a given month of a year
+      24. Finding Number of times x digit occurs in a given input
+      25. Finding number of integers which has exactly x divisors
+      26. Finding Roots of a quadratic equation
 
 ## Code for Recursion
+      1. Power of a Number
+      2. Prime Number
+      3. Largest element in an array
+      4. Smallest element in an array
+      5. Reversing a Number
+      6. HCF of two numbers
+      7. LCM of two numbers
+      8. Program to calculate length of the string using recursion
+      9. Print All Permutations of a String
+      10. Given an integer N the task to print the F(N)th term.
+      11. Given a list arr of N integers, print sums of all subsets in it
+      12. Last non-zero digit in factorial
+      13. Given a positive integer N, return the Nth row of pascal’s triangle 
+      14. Given an integer N representing the number of pairs of parentheses, the task is to generate all combinations of well-formed(balanced) parentheses
+      15. Find the Factorial of a number using recursion
+      16. Find all possible Palindromic partitions of the given String
+      17. Find all the N bit binary numbers having more than or equal 1’s than 0’s
+      18. Given a set of positive integers, find all its subsets
+      19. Given a string s, remove all its adjacent duplicate characters recursively
 
 ## Important Codes related to Arrays
       1. Find Largest element in an array
@@ -55,6 +90,26 @@
       8. Sort the elements of an array
       9. Finding the Longest Palindrome in an Array
       10. Counting Distinct Elements in an Array.
+      11. Finding Repeating elements in an Array
+      12. Finding Non Repeating elements in an Array
+      13. Removing Duplicate elements from an array
+      14. Finding Minimum scalar product of two vectors
+      15. Finding Maximum scalar product of two vectors in an array
+      16. Counting the number of even and odd elements in an array
+      17. Find all Symmetric pairs in an array
+      18. Find maximum product sub-array in a given array
+      19. Finding Arrays are disjoint or not
+      20. Determine Array is a subset of another array or not
+      21. Determine can all numbers of an array be made equal
+      22. Finding Minimum sum of absolute difference of given array
+      23. Sort an array according to the order defined by another array
+      24. Replace each element of the array by its rank in the array 
+      25. Finding equilibrium index of an array
+      26. Rotation of elements of array- left and right
+      27. Block swap algorithm for array rotation
+      28. Juggling algorithm for array rotation
+      29. Finding Circular rotation of an array by K positions
+      30. Balanced Parenthesis Problem
 
 ## Operations on Strings
       1. Check whether a character is a vowel or consonant.
