@@ -41,3 +41,17 @@
       8. Decimal to Octal Conversion
       9. Decimal to Hexadecimal Conversion
       10. Binary to Octal Conversion
+
+## Code for Recursion
+
+## Important Codes related to Arrays
+      1. Find Largest element in an array
+      2. Find Smallest element in an array
+      3. Find the Smallest and largest element in an array
+      4. Find Second Smallest Element in an Array
+      5. Calculate the sum of elements in an array
+      6. Reverse an Array
+      7. Sort first half in ascending order and second half in descending
+      8. Sort the elements of an array
+      9. Finding the Longest Palindrome in an Array
+      10. Counting Distinct Elements in an Array.
