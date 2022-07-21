@@ -55,3 +55,27 @@
       8. Sort the elements of an array
       9. Finding the Longest Palindrome in an Array
       10. Counting Distinct Elements in an Array.
+
+## Operations on Strings
+      1. Check whether a character is a vowel or consonant.
+      2. Check whether a character is a alphabet or not
+      3. Find the ASCII value of a character
+      4. Length of the string without using strlen() function
+      5. Toggle each character in a string
+      6. Count the number of vowels
+      7. Remove the vowels from a String
+      8. Check if the given string is Palindrome or not
+      9. Print the given string in reverse order.
+      10. Remove all characters from string except alphabets.
+      11. Remove spaces from a string
+      12. Remove brackets from an algebraic expression
+      13. Count the sum of numbers in a string
+      14. Capitalize the first and last character to each word of a string
+      15. Calculate frequency of characters in a string
+      16. Find non-repeating characters in a string
+      17. Check if two strings are Anagram or not.
+      18. Replace a sub-string in a string
+      19. Replacing a particular word with another word in a string
+      20. Count common sub-sequence in two strings
+      21. Check if two strings match where one string contains wildcard characters.
+      22. Print all permutations of a given string in lexicographically sorted order.
